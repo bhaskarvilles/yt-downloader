@@ -1,0 +1,10 @@
+Package: yt-downloader
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: yt-dlp
+Maintainer: You <you@example.com>
+Description: YouTube downloader GUI using yt-dlp and Tkinter.
+ A simple GUI wrapper around yt-dlp to download YouTube videos and playlists
+ with quality selection and MP3-only mode.
